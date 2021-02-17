@@ -1,7 +1,7 @@
 # Hey there — I'm **Suraj Bansal** 👋🏽
 
 - 🧬 I'm currently researching personalized health solutions for AML hierarchies at [Princess Margaret Cancer Centre](https://www.uhn.ca/PrincessMargaret)
-- 🧠 I'm also helping develop bioinformatics pipelines like [CReSCENT](https://crescent.cloud/) at [Princess Margaret Cancer Centre](https://www.uhn.ca/PrincessMargaret)
+- 🧠 I'm also helping with some development work for bioinformatics pipelines like [CReSCENT](https://crescent.cloud/) at [Princess Margaret Cancer Centre](https://www.uhn.ca/PrincessMargaret)
 - 🚀 I'm also interested in startups and attempted to build open-source [self-driving car software](https://ryde.netlify.app/) to democratize autonomous vehicles
 - 📢 I'm passionate about student advocacy and currently serving as the elected Prime Minister of the [York Region Presidents' Council](http://www.yrdsb.ca/studenttrustees/Pages/York%20Region%20Presidents'%20Council.aspx), representing over 130,000 students of the York Region District School Board
 - 💡 I'm also interested in systems innovation and have conducted consulting projects for [Sidewalk Labs](https://drive.google.com/file/d/10nBSPSkaKlkVn7yOUCLjWkNUwt6DJEsD/view) and [Kidogo](https://drive.google.com/file/d/1ue5RfyYFE2QTbJ5lkTYrK-3QUvUVH_i8/view)
