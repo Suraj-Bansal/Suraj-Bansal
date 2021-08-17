@@ -1,6 +1,6 @@
 # Hey there — I'm **Suraj Bansal** 👋🏽
 
-- 🧠 I'm an incoming Health Sciences freshman at [McMaster University](https://bhsc.mcmaster.ca/) and aspiring clinican-scientist
+- 🧠 I'm an incoming Health Sciences freshman at [McMaster University](https://bhsc.mcmaster.ca/) and an aspiring clinican-scientist
 - 🧬 I'm currently a student researcher at [Princess Margaret Cancer Centre](http://www.jdstemcellresearch.ca/) and summer student at [UofT's Medical Biophysics](https://medbio.utoronto.ca/medical-biophysics) department where I'm contributing to research on Leukemic hierarchies
 - 📢 I'm passionate about mental health advocacy and am currently scaling mental health projects to 33 secondary schools as Prime Minister of the [York Region Presidents' Council](http://www.yrdsb.ca/studenttrustees/Pages/York%20Region%20Presidents'%20Council.aspx), representing 130,000+ students of the [York Region District School Board](http://www.yrdsb.ca/Pages/default.aspx)
 - ⭐️ Currently, I'm interested in pharmacogenomics, bioinformatics and precision medicine
